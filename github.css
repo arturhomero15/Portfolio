@@ -1,15 +1,25 @@
 .logosmteco img {
     border-radius: 70%;
-    margin-left: 200px;
+    margin-left: 150px;
     margin-top: 100px;
 }
 
 .logoformulario img {
     border-radius: 70%;
-    margin-left: 200px;
+    margin-left: 150px;
     margin-top: 15px;
 }
 
 .logomygithub img {
     border-radius: 70%;
+    margin-left: 400px;
+    margin-top: -200px;
+    margin-bottom: 100px;
+}
+
+.logoatividade1 img {
+    border-radius:70%;
+    margin-left: 400px;
+    margin-top: -525px;
+    margin-bottom: 500px;
 }

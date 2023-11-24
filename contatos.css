@@ -1,10 +1,10 @@
 body {
-    height: 100px;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 0%;
-    background: #ccc;
+    background: #635d5d;
 }
 
 ul {

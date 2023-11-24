@@ -2,10 +2,9 @@ body {
     background: #635d5d;
 }
 
-
 ul {
     position: relative; 
-    transform:skewY(-15deg);
+    transform: skewY(-15deg);
 }
 
 li {
@@ -55,7 +54,7 @@ li::after {
     background: #35383e;
     transform-origin: bottom;
     transform: skewX(45deg);
-    transition:0.5s;
+    transition: 0.5s;
 }
 
 li:hover::after {

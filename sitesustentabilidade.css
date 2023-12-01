@@ -216,7 +216,7 @@ footer{
 .ImagemNoFooter {
     display: flex;
     justify-content: center;
-    transform: translate(-1%, -250%);
+    transform: translate(-0%, -50%);
 }
 
 .h1contatos{
@@ -234,4 +234,27 @@ transform: translate(150%, -67%);
 
 .imagemapoio3{
     transform: translate(150%, -67%);
+}
+
+.new {
+    display: flex;
+    justify-content: center;
+    transform: translate(-0%, -235%);
+}
+
+.proje {
+    display: flex;
+    justify-content: center;
+    transform: translate(-0%, -255%);
+}
+
+.sus {
+    display: flex;
+    justify-content: center;
+    transform: translate(-0%, -255%);
+}
+.apoio {
+    display: flex;
+    justify-content: center;
+    transform: translate(-0%, -255%);
 }

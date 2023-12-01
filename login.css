@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(129, 179, 255);
+}
+
+.imagem {
+    display:flex;
+    text-align:center;
+    margin-top: 200px;
+    margin-left:595px;
+    padding:center;
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+}
+
+.nome{
+    text-align:center;
+    height:50px;
+    margin-top: 30px;
+}
+
+.senha{
+    text-align:center;
+    margin-top: 10px;
+}
+
+button{
+    cursor:pointer;
+    height:40px;
+    width: 70px;
+    margin-left: 640px;
+    margin-top: 30px;
+}
+
+.lembrarsenha{
+    text-align:left;
+    margin-left: 70px;
+    margin-top: 10px;
+    text-align:center;
+}

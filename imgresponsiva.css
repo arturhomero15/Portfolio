@@ -1,0 +1,9 @@
+body {
+    max-width:1000vw;
+    max-height:1000vw;
+}
+
+.img {
+    height: 1000vw;
+    width: 1000vw;
+}

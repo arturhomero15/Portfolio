@@ -57,3 +57,21 @@ body {
     margin-top: 225px;
     margin-left: -725px;
 }
+
+.login {
+    border-radius: 70%;
+    margin-left: 250px;
+    margin-top: -200px;
+}
+
+.fixacao {
+    border-radius: 70%;
+    margin-left: 250px;
+    margin-top: -200px;
+}
+
+.imgresponsiva {
+    border-radius: 70%;
+    margin-left: 225px;
+    margin-top: -200px;
+}

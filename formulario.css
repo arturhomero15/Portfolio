@@ -1,0 +1,46 @@
+html{
+    padding:200px;
+}
+
+body {
+    padding:35px;
+    position:center;
+    height: 475px;
+    width: 800px;
+    border: 5px solid red;
+    text-align:start;
+}
+
+.PARTE1{
+    width:400px;
+    height:300px;
+    text-align:start; 
+    float:left;
+}
+
+.PARTE2{
+    width: 400px;
+    height: 240px;
+    text-align: start;
+    float:right;
+}
+
+a{
+    display:block;
+    text-align:bottom;
+    color:white;
+}
+
+button{
+    margin-left:300px;
+    margin-top:440px;
+    max-height: 40px;
+    max-width: 150px;
+    height:40px;
+    width:150px;
+    display:block;
+    float:bottom;
+    border-radius: 5px;
+    background-color: green;
+    cursor: pointer;
+}

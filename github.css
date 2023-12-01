@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(108, 106, 106);
+}
+
 .logosmteco img {
     border-radius: 70%;
     margin-left: 150px;
@@ -33,7 +37,7 @@
 
 .logomusica img {
     border-radius: 70%;
-    margin-left: 900px;
+    margin-left: 875px;
     margin-bottom: 320px;
      
 }
@@ -41,4 +45,15 @@
 .aula0307 {
     border-radius: 70%;
     margin-top: -260px;
+}
+
+.amogus img {
+    border-radius: 70%;
+    margin-left: 875px;
+    margin-bottom: 500px;
+}
+
+.sushiseria {
+    margin-top: 225px;
+    margin-left: -725px;
 }

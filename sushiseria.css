@@ -19,23 +19,23 @@ p   {
 }
 
 header {
-   grid-area: cabecalho;
+   grid-template-areas: "header header" ;
    background-color: #000000; 
 }
 
 section {
-    grid-area: secao;
+    grid-area: "secao";
     background-color: #ffffff; 
     background-image: image-set(sushi);
 }
 
 aside {
-    grid-area: barra-lateral;
+    grid-area: "barra-lateral";
     background-color:white;  
 }
 
 footer {
-    grid-area: rodape;
+    grid-area: "rodape";
     display: flex;
     justify-content: space-evenly;
 }

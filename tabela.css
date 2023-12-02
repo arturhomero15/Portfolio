@@ -1,0 +1,93 @@
+.intervalo{
+    text-align: center;
+    background-color:gray;
+}      
+
+.turma102{
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    text-orientation: mixed;
+}
+   
+.segunda{
+    background-color: beige;
+    text-align:center;
+}
+
+.terca{
+    background-color: beige;
+    text-align: center;
+}   
+
+.quarta{
+    background-color: beige;
+    text-align: center;
+}
+
+.quinta{
+    background-color: beige;
+    text-align: center;
+}
+
+.sexta{
+    background-color: beige;
+    text-align: center;
+}
+
+.pp{
+    background-color: rgb(211, 137, 26);
+    text-align: center;
+}
+  
+.mat{
+    background-color: yellow;
+    text-align:center;
+}
+
+.artes{
+    background-color:pink;
+    text-align:center;
+}
+
+.port{
+    background-color:pink;
+    text-align: center;
+    }
+       
+.pv{
+    background-color: green;
+    text-align:center;
+}
+   
+.qui{
+    background-color: rgb(255, 166, 0);
+    text-align: center;
+}
+   
+.cieh{
+    background-color: orange;
+    text-align: center;
+}
+  
+.liv{
+    text-align: center;
+}    
+ 
+.geo{
+    background-color: rgb(58, 145, 216);
+    text-align:center;
+}
+
+.tec{
+    background-color: rgb(155, 33, 155);
+    text-align: center;
+}
+
+.vazio{
+    width:50px;
+}
+
+.horario{
+    width: 60px;
+    text-align: end;
+}

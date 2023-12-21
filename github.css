@@ -1,83 +1,69 @@
 body {
     background-color: rgb(108, 106, 106);
+    display: flex;
 }
 
 .logosmteco img {
     border-radius: 70%;
-    margin-left: 11vw;
-    margin-top: 8vw;
+    
 }
 
 .logoformulario img {
     border-radius: 70%;
-    margin-left: 150px;
-    margin-top: 15px;
+    
 }
 
 .logomygithub img {
     border-radius: 70%;
-    margin-left: 400px;
-    margin-top: -200px;
-    margin-bottom: 100px;
+    
 }
 
 .logobobesponja img {
     border-radius: 70%;
-    margin-left: 640px;
-    margin-top: -500px;
-    margin-bottom: 300px;
+    
 }
 
 .logoatividade1 img {
     border-radius:70%;
-    margin-left: 400px;
-    margin-top: -525px;
-    margin-bottom: 500px;
+    
 }
 
 .logomusica img {
     border-radius: 70%;
-    margin-left: 875px;
-    margin-bottom: 320px;
+    
      
 }
 
 .aula0307 {
     border-radius: 70%;
-    margin-top: -260px;
+    
 }
 
 .amogus img {
     border-radius: 70%;
-    margin-left: 875px;
-    margin-bottom: 500px;
+    
 }
 
 .sushiseria {
-    margin-top: 225px;
-    margin-left: -725px;
+    border-radius: 70%;
 }
 
 .login {
     border-radius: 70%;
-    margin-left: 250px;
-    margin-top: -200px;
+    
 }
 
 .fixacao {
     border-radius: 70%;
-    margin-left: 250px;
-    margin-top: -200px;
+    
 }
 
 .imgresponsiva {
     border-radius: 70%;
-    margin-left: 225px;
-    margin-top: -200px;
+    
 }
 
 .tabela {
     border-radius: 70%;
-    margin-right: 500px;
-    margin-top: 20px;
+    
 }

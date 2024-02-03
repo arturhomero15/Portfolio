@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(108, 106, 106);
+    background-color: rgb(213, 158, 102);
 }
 
 header {
@@ -14,7 +14,7 @@ h1{
     padding-top: 35px;
 }
 
-nav {
+main {
     grid-area: navegador;
     width: 40vw;
     height: 30vw;
